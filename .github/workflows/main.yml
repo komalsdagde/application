@@ -30,8 +30,7 @@ jobs:
         run: echo Hello, world!
 
       # Runs a set of commands using the runners shell
-      - name: Run the linting service
-        uses: github/super-linter@v3Testing it all out
+      
       - name: Run a multi-line script
         run: |
           echo Add other actions to build,
