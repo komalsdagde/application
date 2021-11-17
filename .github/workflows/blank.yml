@@ -29,4 +29,4 @@ jobs:
         run: echo Hello, world!
 # Runs a set of commands using the runners shell
       - name: Run the linting service
-        uses: github/super-linter@v4Testing it all out
+        uses: github/super-linter@Testing it all out
